@@ -15,3 +15,5 @@ This is available from https://github.com/AndyQ/CNCPlotter
  
  
 In addition, I'd like to thank @CNC World for creating the Instructable - http://www.instructables.com/id/How-to-Make-Arduino-Based-Mini-CNC-Plotter-Using-D which got my interest going.
+
+Disclaimer - this works nicely for my plotter, however, it may not work on your plotter. You use this software entirely at your own risk.
