@@ -8,8 +8,6 @@ Additional features:
  - Auto Home and uses midpoint as home Use 'H' command
  - Can disable motors using M18 command (got annoyed by motor noise)
  - Verbose logging over serial connection can ben toggled using 'V' command)
- - Shows preview of GCode (and also shows plotting progress)
- - Allows scaling up and down of GCode
  
 This sketch does nothing on its own. It requires a companion app to feed it with basic commands currently over the serial connection.
 There are a few around however, I have written an OSX companion app which supports all the new features I've added here.
